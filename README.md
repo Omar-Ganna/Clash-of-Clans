@@ -1,4 +1,5 @@
-Welcome to our project! This is a tower defense game implemented in C++ with Qt. Below you will find a detailed overview of the project structure, classes, functionalities, and more.
+Tower Defense Game README
+Welcome to our tower defense game project implemented in C++ with Qt! Below you'll find a comprehensive overview of the project's structure, classes, functionalities, and more.
 
 Project Overview
 Our tower defense game presents players with a challenging task: defend the castle against waves of incoming enemies. Players can strategically place defenses such as fences and cannons, as well as deploy troops to fend off the enemy onslaught. With multiple levels, unique themes, and customizable upgrades, players are in for an engaging gaming experience.
